@@ -35,3 +35,49 @@ The goal of this portfolio is to build a strong online presence and demonstrate 
 ---
 
 ## 📂 Project Structure
+
+```
+
+Krishna-s-Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+
+```
+
+---
+
+## 🌍 Live Demo
+
+👉 (Add your deployed link here — GitHub Pages / Netlify)
+
+---
+
+## 📸 Preview
+
+(Add screenshots or GIFs of your portfolio here)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🐙 GitHub: https://github.com/Krishna19-dev  
+
+---
+
+## 🎯 Goal
+
+I aim to secure a software development role before completing my BTech by continuously building projects and improving my skills.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+Agar chaho toh next level pe le jaate hain:
+👉 main tumhare portfolio ko **“job-getting level” bana deta hoon (UI + content + projects strategy)**
+--
