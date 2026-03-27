@@ -57,7 +57,8 @@ Krishna-s-Portfolio/
 
 ## 📸 Preview
 
-(Add screenshots or GIFs of your portfolio here)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43f5f3bf-c1c0-4a76-a5f7-8c3f550e54c8" />
+
 
 ---
 
