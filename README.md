@@ -57,7 +57,8 @@ Krishna-s-Portfolio/
 
 ## 📸 Preview
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43f5f3bf-c1c0-4a76-a5f7-8c3f550e54c8" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/8ef497fb-b0c3-45f8-b378-39eddd3dac60" />
+
 
 
 ---
