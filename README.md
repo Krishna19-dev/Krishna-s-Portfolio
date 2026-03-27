@@ -80,6 +80,5 @@ I aim to secure a software development role before completing my BTech by contin
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
-Agar chaho toh next level pe le jaate hain:
-👉 main tumhare portfolio ko **“job-getting level” bana deta hoon (UI + content + projects strategy)**
+
 --
